@@ -1,0 +1,27 @@
+  File: /home/user1
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,4	Inode: 393434      Links: 2
+Access: (0700/drwx------)  Uid: ( 1234/   user1)   Gid: ( 1001/students)
+Context: unconfined_u:object_r:user_home_dir_t:s0
+Access: 2026-09-22 23:16:28.999615128 +0300
+Modify: 2026-09-22 23:14:08.397662270 +0300
+Change: 2026-09-22 23:14:08.397662270 +0300
+ Birth: 2026-09-22 22:43:41.892009834 +0300
+  File: /home/user1/netmashasuidtee
+  Size: 36616     	Blocks: 72         IO Block: 4096   regular file
+Device: 8,4	Inode: 393476      Links: 1
+Access: (4755/-rwsr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Context: unconfined_u:object_r:user_home_t:s0
+Access: 2026-09-22 23:08:38.201375908 +0300
+Modify: 2026-09-22 23:00:45.751269964 +0300
+Change: 2026-09-22 23:03:06.195064345 +0300
+ Birth: 2026-09-22 23:00:45.750270009 +0300
+  File: /home/user1/mycapchown
+  Size: 65840     	Blocks: 144        IO Block: 4096   regular file
+Device: 8,4	Inode: 393498      Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Context: unconfined_u:object_r:user_home_t:s0
+Access: 2026-09-22 23:16:44.673902434 +0300
+Modify: 2026-09-22 23:14:08.398662228 +0300
+Change: 2026-09-22 23:15:10.844037543 +0300
+ Birth: 2026-09-22 23:14:08.397662270 +0300

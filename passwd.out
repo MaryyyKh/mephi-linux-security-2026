@@ -1,0 +1,28 @@
+root:x:0:0:root:/root:/bin/bash
+bin:x:1:1:bin:/bin:/sbin/nologin
+daemon:x:2:2:daemon:/sbin:/sbin/nologin
+adm:x:3:4:adm:/var/adm:/sbin/nologin
+lp:x:4:7:lp:/var/spool/lpd:/sbin/nologin
+sync:x:5:0:sync:/sbin:/bin/sync
+shutdown:x:6:0:shutdown:/sbin:/sbin/shutdown
+halt:x:7:0:halt:/sbin:/sbin/halt
+mail:x:8:12:mail:/var/spool/mail:/sbin/nologin
+operator:x:11:0:operator:/root:/sbin/nologin
+games:x:12:100:games:/usr/games:/sbin/nologin
+ftp:x:14:50:FTP User:/var/ftp:/sbin/nologin
+nobody:x:65534:65534:Kernel Overflow User:/:/sbin/nologin
+dbus:x:81:81:System message bus:/:/sbin/nologin
+tss:x:59:59:Account used for TPM access:/:/usr/sbin/nologin
+systemd-oom:x:999:999:systemd Userspace OOM Killer:/:/usr/sbin/nologin
+systemd-resolve:x:193:193:systemd Resolver:/:/usr/sbin/nologin
+polkitd:x:114:114:User for polkitd:/:/sbin/nologin
+postgres:x:26:26:PostgreSQL Server:/var/lib/pgsql:/bin/bash
+postfix:x:89:89::/var/spool/postfix:/sbin/nologin
+kea:x:998:998:Kea DHCP Server:/var/lib/kea:/usr/sbin/nologin
+sshd:x:74:74:Privilege-separated SSH:/usr/share/empty.sshd:/usr/sbin/nologin
+chrony:x:997:997:chrony system user:/var/lib/chrony:/sbin/nologin
+dnsmasq:x:996:996:Dnsmasq DHCP and DNS server:/var/lib/dnsmasq:/usr/sbin/nologin
+systemd-coredump:x:994:994:systemd Core Dumper:/:/usr/sbin/nologin
+systemd-timesync:x:993:993:systemd Time Synchronization:/:/usr/sbin/nologin
+netmasha:x:1000:1000:netmasha:/home/netmasha:/bin/bash
+user1:x:1234:1001::/home/user1:/bin/bash
